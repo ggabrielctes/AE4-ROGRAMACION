@@ -1,0 +1,12 @@
+# LOGIX reestructurado (G'): ROB y SEG pasan a depender del BUS
+PED CLI INV ROB ASG RUT SEG ENT REP BUS
+0 1 1 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 1
+0 0 1 0 0 1 0 0 0 1
+0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 1
+1 0 0 0 0 0 1 0 0 0
+1 0 1 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 0 0

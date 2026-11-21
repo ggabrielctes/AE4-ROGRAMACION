@@ -1,0 +1,10 @@
+ASG;Asignación;Asignación de pedidos a vehículos
+BUS;Bus de eventos;Canal común de mensajes (nuevo en la versión reestructurada)
+CLI;Clientes;Administración de datos de clientes
+ENT;Entregas;Registro de entregas
+INV;Inventario;Control de stock en depósitos
+PED;Pedidos;Registro y gestión de pedidos, incluidos los de plataformas externas
+REP;Reportes;Generación de reportes de distribución
+ROB;Robots de depósito;Integración con robots móviles de traslado
+RUT;Rutas;Planificación de rutas
+SEG;Seguimiento;Seguimiento GPS/IoT en tiempo real

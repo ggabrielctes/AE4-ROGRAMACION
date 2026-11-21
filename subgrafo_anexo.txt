@@ -1,0 +1,7 @@
+# Subgrafo del Anexo de resolución manual
+INV ROB ASG RUT SEG
+0 1 0 0 0
+1 0 0 0 0
+1 0 0 1 0
+0 0 0 0 1
+0 0 1 0 0

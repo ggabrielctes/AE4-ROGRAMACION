@@ -1,0 +1,4 @@
+# Tabla 6: coeficientes de x, y, z y término independiente
+2 3 1 119
+1 2 2 122
+3 1 2 126

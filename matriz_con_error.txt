@@ -1,0 +1,5 @@
+# Archivo con un error a propósito (un 2) para probar la validación
+A B C
+0 2 0
+0 0 1
+0 0 0
